@@ -57,7 +57,7 @@ require 'include/common.php';
                         <div id="about">
                             <img src="img/sir.jpg" class="sir ml-3">
                             <p align="justify">Dear Students, I am <strong>Amit Ghosh (Faculty of Explorations of Physics)</strong>, hosting a website for you helping 
-                            to achieve your dreams in proper way. All of you are very muc expensive gems to me. I have a responsibility for raising your 
+                            to achieve your dreams in proper way. All of you are very expensive to me. I have a responsibility for raising your 
                             shining career. You are very much welcome to the world of <strong>EXPLORATIONS OF PHYSICS.</strong> Specially I would like to 
                             thank to my student <i>Kuntal Paul</i> to construct this website on behalf of me. <brI would like to draw your attention to 
                             follow this website for better performance.</p>
